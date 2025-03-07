@@ -22,8 +22,8 @@ JavaFX Music Player combines stunning visuals with powerful playback features, e
 * Clone this repository
 
 ```
-git clone https://github.com/your-repo/javafx-music-player.git
-cd javafx-music-player
+git clone https://github.com/StewyDev65/OfflineMusic.git
+cd OfflineMusic
 ```
 
 * Compile and run the application
